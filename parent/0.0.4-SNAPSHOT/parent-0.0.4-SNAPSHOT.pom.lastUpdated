@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 29 14:42:38 CST 2019
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://public-snapshots/.error=Could not transfer artifact com.unis.springcloud\:parent\:pom\:0.0.4-SNAPSHOT from/to public-snapshots (http\://public-snapshots)\: public-snapshots
+@default-public-snapshots-http\://public-snapshots/.lastUpdated=1564382556867
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1564382558475
