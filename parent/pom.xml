@@ -29,7 +29,7 @@
 		<feign-form.version>3.2.2</feign-form.version>
 		<feign-form-spring.version>3.2.2</feign-form-spring.version>
 		<commons-beanutils.version>1.9.3</commons-beanutils.version>
-		<validator.version>4.3.1.Final</validator.version>
+		<validator.version>5.3.5.Final</validator.version>
 		<org.aspectj.version>1.8.10</org.aspectj.version>
 		<commons-fileupload.version>1.3.3</commons-fileupload.version>
 		<flowable.version>6.4.1</flowable.version>
